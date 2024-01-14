@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: pink;
+}
+
+.for{
+    box-shadow: 0em 1.2em 1.2em blue
+    inset 0em 1.2em 1.2em blue;
+}
+.center{
+    background: black;
+    border-radius: 25px;
+    width: 350px;
+}
+input[type="text"]{
+    height: 60px;
+    width: 240px;
+    margin-top: 40px;
+    border-radius: 30px;
+}
+
